@@ -53,7 +53,7 @@ public void nhap(){
     }
 }
 public void inThongTin(){
-    System.out.println("Loai Hang: "+loaiHangHoa+"   Ma: "+maHangHoa+"   Ten Hang Hoa: "+tenHangHoa+"   Gia Nhap: "+giaNhap+"        So Luong Ton Kho: "+soLuongTonKho+"        Ngay nhap: "+simpleDateFormat.format(ngayNhapKho));
+    System.out.println("Loai Hang: "+loaiHangHoa+"   Ma: "+maHangHoa+" Ten Hang Hoa: "+tenHangHoa+"   Gia Nhap: "+giaNhap+"   So Luong Ton Kho: "+soLuongTonKho+" Ngay nhap: "+simpleDateFormat.format(ngayNhapKho));
 }
 }
 
